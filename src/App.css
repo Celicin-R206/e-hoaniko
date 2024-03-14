@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+header{
+  background: url('../public/assets/images/home.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 90vh;
+}
+
+.accueil{
+  height: 80%;
+}
+
+.title{
+  font-weight: 700;
+  color: #822926;
+  font-size: 1.5rem;
+}
+
+.conaitainer2{
+  width: 70%;
+  margin: 3rem auto;
+}
+
+.menu img{
+  width: 3rem;
+  height: 3rem;
+}
+
+.todaymenu .left img{
+  width: 35rem;
+}
+
+
+
+.menu .image_menu{
+  width: 35rem;
+  height: 35rem;
+}
+
+footer .fot-bg{
+  background: #F8F8F8;
+}
+
+.btn{
+  background: #0B3005;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.container{
+  margin: auto;
+}
