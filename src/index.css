@@ -70,9 +70,11 @@ button:focus-visible {
 
 @font-face {
   font-family: "Gilroy";
-  src: url("./assets/Gilroy-Medium.ttf");
+  src: url("../src/Gilroy-Medium.ttf");
 }
 
+
+
 body{
-  font-family: "Gilroy";
+  font-family: "Gilroy sans-serif";
 }
